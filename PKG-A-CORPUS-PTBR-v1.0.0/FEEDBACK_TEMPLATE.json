@@ -1,0 +1,12 @@
+{
+  "schema": "kpa-humanity-feedback/v1",
+  "package_id": "PKG-A-CORPUS-PTBR-v1.0.0",
+  "mission_id": "MISSION_A_CORPUS_PTBR",
+  "kind_options": [
+    "ERROR_REPORT",
+    "DIDACTIC_REUSE",
+    "NEW_STUDY_REQUEST",
+    "COLLABORATION"
+  ],
+  "instructions": "Submeta uma Issue no repositorio GitHub kpa-humanity-open-science com este JSON preenchido para revisao metodologica (L3) ou registro de reutilizacao didatica (L5)."
+}
