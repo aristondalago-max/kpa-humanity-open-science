@@ -1,13 +1,13 @@
 # Nota Técnica Aberta para Engenharia e Arquitetura Hospitalar (`REC-B05`)
 
 - **Destinatário:** ABDEH — Associação Brasileira para o Desenvolvimento do Edifício Hospitalar (`https://abdeh.org.br/`)
-- **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`604` cenários hospitalares A4 Verde + `584` cenários de microgrids críticos)
-- **Manifesto SHA-256:** `ec63ea9cfb05551d631b254e4ddd596b2a2fd51dec24f3890a172b18fa158d7a` · **Licença:** `CC-BY-4.0`
+- **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`621` cenários hospitalares A4 Verde + `601` cenários de microgrids críticos)
+- **Manifesto SHA-256:** `5dd8dba632db0220a4f89232e221bd5a0169d8d0a523c27e1569576caf9b045d` · **Licença:** `CC-BY-4.0`
 
 ## 1. Síntese para Engenharia Hospitalar
 
-Disponibilizamos à comunidade técnica da **ABDEH** o relatório demonstrativo e a base `CSV/JSONL` com **`2,362` cenários sintéticos parametrizados** em 27 UFs, destacando:
-- **Otimização Horo-Sazonal A4 Verde (`aneel_tarifa_hospital`):** `604` cenários simulando deslocamento de demanda de ponta (18h–21h) via banco LFP e retrofit de eficiência em centrais de água gelada (HVAC);
-- **Autonomia de Microgrids Críticos (`energia_solar`):** `584` cenários horários de resiliência para cargas críticas (UTI, centro cirúrgico e rede de frio).
+Disponibilizamos à comunidade técnica da **ABDEH** o relatório demonstrativo e a base `CSV/JSONL` com **`2,425` cenários sintéticos parametrizados** em 27 UFs, destacando:
+- **Otimização Horo-Sazonal A4 Verde (`aneel_tarifa_hospital`):** `621` cenários simulando deslocamento de demanda de ponta (18h–21h) via banco LFP e retrofit de eficiência em centrais de água gelada (HVAC);
+- **Autonomia de Microgrids Críticos (`energia_solar`):** `601` cenários horários de resiliência para cargas críticas (UTI, centro cirúrgico e rede de frio).
 
 > **Aviso Técnico:** Os estudos constituem **cenários sintéticos de triagem preliminar** sobre parâmetros públicos (**CNES**, **NASA POWER**, **ANEEL**) e não substituem medição física nem projeto executivo com **ART/CREA**.
