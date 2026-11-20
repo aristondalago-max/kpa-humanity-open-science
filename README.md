@@ -1,6 +1,6 @@
 # KPA Humanity — Open Science: Educação Matemática & Energia para a Saúde Pública
 
-- **Versão do Release:** `v1.0.0` · **Atualizado em:** `2026-11-20T19:45:01-03:00`
+- **Versão do Release:** `v1.0.0` · **Atualizado em:** `2026-11-20T20:00:01-03:00`
 - **Licença:** `CC-BY-4.0` (Creative Commons Atribuição 4.0 Internacional)
 - **Nível de Validação Científica Atual:** **`L2`** (Verificação matemática automatizada por duplo oráculo determinístico independente `solve_a == solve_b` + proveniência de fontes públicas auditada + deduplicação estrita de cenários)
 
@@ -19,8 +19,8 @@
 
 | Pacote | Missão | Cenários Únicos Validados (L2) | Conteúdo Principal |
 | --- | --- | ---: | --- |
-| [`PKG-A-CORPUS-PTBR-v1.0.0`](./PKG-A-CORPUS-PTBR-v1.0.0/) | **Missão A — Corpus Aberto PT-BR** | **8,208** (de 8,305 acertos L1) | Questões e resoluções passo a passo em português (10 famílias: aritmética, modular, MDC/MMC, combinatória, sistemas lineares, primos, recorrência, contagem, logística humanitária e códigos corretores de erro) em JSONL, CSV e Caderno Didático Markdown. |
-| [`PKG-B-ENERGIA-SAUDE-v1.0.0`](./PKG-B-ENERGIA-SAUDE-v1.0.0/) | **Missão B — Energia para a Saúde** | **12,178** (de 15,258 acertos L1 · **27/27 UFs**) | Modelagem energética reproduzível para tipologias públicas do SUS (dimensionamento solar fotovoltaico, otimização tarifária ponta/fora-ponta A4, análise de incerteza climática P10/P50/P90 e autonomia de microrredes com baterias) em JSONL, CSV e Relatório Científico. |
+| [`PKG-A-CORPUS-PTBR-v1.0.0`](./PKG-A-CORPUS-PTBR-v1.0.0/) | **Missão A — Corpus Aberto PT-BR** | **8,257** (de 8,354 acertos L1) | Questões e resoluções passo a passo em português (10 famílias: aritmética, modular, MDC/MMC, combinatória, sistemas lineares, primos, recorrência, contagem, logística humanitária e códigos corretores de erro) em JSONL, CSV e Caderno Didático Markdown. |
+| [`PKG-B-ENERGIA-SAUDE-v1.0.0`](./PKG-B-ENERGIA-SAUDE-v1.0.0/) | **Missão B — Energia para a Saúde** | **12,246** (de 15,342 acertos L1 · **27/27 UFs**) | Modelagem energética reproduzível para tipologias públicas do SUS (dimensionamento solar fotovoltaico, otimização tarifária ponta/fora-ponta A4, análise de incerteza climática P10/P50/P90 e autonomia de microrredes com baterias) em JSONL, CSV e Relatório Científico. |
 
 ---
 
@@ -37,10 +37,10 @@
 
 ## 3. Síntese dos Cenários Simulados na Missão B (Tipologias Parametrizadas — L2 Deduplicado)
 
-- **Dimensionamento Solar Fotovoltaico (`cnes_solar_sus`, 2943 cenários únicos):** Potência total simulada de **906,609 kWp**, geração estimada de **1331975.3 MWh/ano** e potencial bruto simulado de **R$ 1,118,625,105/ano**.
-- **Otimização Tarifária Ponta/Fora-Ponta A4 (`aneel_tarifa_hospital`, 3123 cenários únicos):** Redução média simulada de **R$ 71,206/mês por unidade hospitalar** via deslocamento de ponta com armazenamento LFP e retrofit de climatização.
-- **Análise de Incerteza Climática NASA POWER (`vpl_incerteza_saude`, 3094 cenários únicos):** Saldo líquido médio simulado em **P10 (conservador) = R$ 612,286**, **P50 (mediano) = R$ 745,254** e **P90 (favorável) = R$ 878,222**.
-- **Autonomia de Microrredes Críticas (`energia_solar`, 3018 cenários únicos):** Importação residual acumulada de **106,052 kWh** e reserva final de bateria de **120,897 kWh**.
+- **Dimensionamento Solar Fotovoltaico (`cnes_solar_sus`, 2960 cenários únicos):** Potência total simulada de **909,768 kWp**, geração estimada de **1336797.8 MWh/ano** e potencial bruto simulado de **R$ 1,122,664,049/ano**.
+- **Otimização Tarifária Ponta/Fora-Ponta A4 (`aneel_tarifa_hospital`, 3140 cenários únicos):** Redução média simulada de **R$ 71,157/mês por unidade hospitalar** via deslocamento de ponta com armazenamento LFP e retrofit de climatização.
+- **Análise de Incerteza Climática NASA POWER (`vpl_incerteza_saude`, 3111 cenários únicos):** Saldo líquido médio simulado em **P10 (conservador) = R$ 611,540**, **P50 (mediano) = R$ 744,400** e **P90 (favorável) = R$ 877,259**.
+- **Autonomia de Microrredes Críticas (`energia_solar`, 3035 cenários únicos):** Importação residual acumulada de **106,403 kWh** e reserva final de bateria de **121,688 kWh**.
 
 ---
 
