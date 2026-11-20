@@ -1,13 +1,13 @@
 # Nota Técnica Aberta para Engenharia e Arquitetura Hospitalar (`REC-B05`)
 
 - **Destinatário:** ABDEH — Associação Brasileira para o Desenvolvimento do Edifício Hospitalar (`https://abdeh.org.br/`)
-- **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`2461` cenários hospitalares A4 Verde + `2368` cenários de microgrids críticos)
-- **Manifesto SHA-256:** `96fd96b62a2069ea9505e13ec174c5f98097c95640f7c0e47f07190b40889feb` · **Licença:** `CC-BY-4.0`
+- **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`2482` cenários hospitalares A4 Verde + `2390` cenários de microgrids críticos)
+- **Manifesto SHA-256:** `47538c254574aa77c97657171d6a53c712a51d540bb7b7d448d0d51b43552845` · **Licença:** `CC-BY-4.0`
 
 ## 1. Síntese para Engenharia Hospitalar
 
-Disponibilizamos à comunidade técnica da **ABDEH** o relatório demonstrativo e a base `CSV/JSONL` com **`9,592` cenários sintéticos parametrizados** em 27 UFs, destacando:
-- **Otimização Horo-Sazonal A4 Verde (`aneel_tarifa_hospital`):** `2461` cenários simulando deslocamento de demanda de ponta (18h–21h) via banco LFP e retrofit de eficiência em centrais de água gelada (HVAC);
-- **Autonomia de Microgrids Críticos (`energia_solar`):** `2368` cenários horários de resiliência para cargas críticas (UTI, centro cirúrgico e rede de frio).
+Disponibilizamos à comunidade técnica da **ABDEH** o relatório demonstrativo e a base `CSV/JSONL` com **`9,676` cenários sintéticos parametrizados** em 27 UFs, destacando:
+- **Otimização Horo-Sazonal A4 Verde (`aneel_tarifa_hospital`):** `2482` cenários simulando deslocamento de demanda de ponta (18h–21h) via banco LFP e retrofit de eficiência em centrais de água gelada (HVAC);
+- **Autonomia de Microgrids Críticos (`energia_solar`):** `2390` cenários horários de resiliência para cargas críticas (UTI, centro cirúrgico e rede de frio).
 
 > **Aviso Técnico:** Os estudos constituem **cenários sintéticos de triagem preliminar** sobre parâmetros públicos (**CNES**, **NASA POWER**, **ANEEL**) e não substituem medição física nem projeto executivo com **ART/CREA**.
