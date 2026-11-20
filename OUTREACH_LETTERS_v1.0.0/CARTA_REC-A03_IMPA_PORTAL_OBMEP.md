@@ -1,9 +1,9 @@
 # Encaminhamento de Recurso Educacional Aberto — Corpus e Caderno Didático PT-BR (`REC-A03`)
 
 - **Destinatário:** IMPA / Portal da Matemática OBMEP (`https://portaldaobmep.impa.br/`)
-- **Pacote Submetido:** `PKG-A-CORPUS-PTBR-v1.0.0` (`5,626` questões únicas verificadas por duplo oráculo determinístico)
-- **Manifesto SHA-256:** `2c090e37c51516d4fb6211c44547f4a90fb5d1f0ac84b07bd8650c45ef11e1ea` · **Licença:** `CC-BY-4.0`
+- **Pacote Submetido:** `PKG-A-CORPUS-PTBR-v1.0.0` (`5,652` questões únicas verificadas por duplo oráculo determinístico)
+- **Manifesto SHA-256:** `edb0cbe918c7e5217582636868762eaf0be453bde473205794455599179ee3eb` · **Licença:** `CC-BY-4.0`
 
 ## Resumo do Material Didático
 
-Disponibilizamos sob licença livre `CC-BY-4.0` o `CADERNO_DIDATICO_GABARITO_COMENTADO_PTBR.md` e a base estruturada `JSONL/CSV` com **`5,626` problemas resolvidos em português** (aritmética modular, MDC/MMC, combinatória, sistemas lineares, recorrências, códigos corretores de Hamming e logística humanitária), todos verificados por dois algoritmos determinísticos independentes (`solve_a == solve_b`).
+Disponibilizamos sob licença livre `CC-BY-4.0` o `CADERNO_DIDATICO_GABARITO_COMENTADO_PTBR.md` e a base estruturada `JSONL/CSV` com **`5,652` problemas resolvidos em português** (aritmética modular, MDC/MMC, combinatória, sistemas lineares, recorrências, códigos corretores de Hamming e logística humanitária), todos verificados por dois algoritmos determinísticos independentes (`solve_a == solve_b`).
