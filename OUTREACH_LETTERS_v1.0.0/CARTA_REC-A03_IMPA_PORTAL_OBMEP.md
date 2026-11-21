@@ -2,7 +2,7 @@
 
 - **Destinatário:** IMPA / Portal da Matemática OBMEP (`https://portaldaobmep.impa.br/`)
 - **Pacote Submetido:** `PKG-A-CORPUS-PTBR-v1.0.0` (`11,092` questões únicas verificadas por duplo oráculo determinístico)
-- **Manifesto SHA-256:** `517cdb638fd879be54c6d5fa587ea73dc244bc1e9312e39289d221daa4bdc0db` · **Licença:** `CC-BY-4.0`
+- **Manifesto SHA-256:** `197620754a27fdc70cbf69c08dc4662d2560a6892c992471158d08120a3eeadf` · **Licença:** `CC-BY-4.0`
 
 ## Resumo do Material Didático
 
