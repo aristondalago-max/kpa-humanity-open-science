@@ -1,6 +1,6 @@
 # KPA Humanity — Open Science: Educação Matemática & Energia para a Saúde Pública
 
-- **Versão do Release:** `v1.0.0` · **Atualizado em:** `2026-11-21T18:45:02-03:00`
+- **Versão do Release:** `v1.0.0` · **Atualizado em:** `2026-11-21T19:00:02-03:00`
 - **Licença:** `CC-BY-4.0` (Creative Commons Atribuição 4.0 Internacional)
 - **Nível de Validação Científica Atual:** **`L2`** (Verificação matemática automatizada por duplo oráculo determinístico independente `solve_a == solve_b` + proveniência de fontes públicas auditada + deduplicação estrita de cenários)
 
