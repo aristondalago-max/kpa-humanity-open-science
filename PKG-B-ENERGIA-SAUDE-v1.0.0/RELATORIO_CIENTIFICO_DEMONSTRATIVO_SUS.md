@@ -1,9 +1,9 @@
 # Relatório Científico Demonstrativo — KPA Humanity: Energia para a Saúde (PKG-B-ENERGIA-SAUDE-v1.0.0)
 
 - **Missão:** Missão B — KPA Humanity: Energia para a Saúde (`MISSION_B_ENERGIA_SAUDE`)
-- **Versão:** `v1.0.0` · **Gerado em:** `2026-11-21T11:00:02-03:00`
+- **Versão:** `v1.0.0` · **Gerado em:** `2026-11-21T11:15:02-03:00`
 - **Nível de Validação Científica:** **`L2`** (Cálculos verificados por duplo oráculo determinístico `solve_a == solve_b`, cenários únicos deduplicados por `family:level:seed` e proveniência explícita das fontes públicas)
-- **Cenários Únicos Auditados (L2):** `16364` (de `20489` acertos L1 e `20988` execuções L0 — **`27 / 27 UFs`** cobertas)
+- **Cenários Únicos Auditados (L2):** `16369` (de `20495` acertos L1 e `20994` execuções L0 — **`27 / 27 UFs`** cobertas)
 - **Licença:** `CC-BY-4.0`
 
 ## 1. Aviso Metodológico Obrigatório (Distinção entre Tipologia Parametrizada e Unidade Individual)
@@ -17,10 +17,10 @@
 
 | Eixo de Modelagem | Cenários Únicos (L2) | Indicador Principal Simulado (Tipologias) | Incerteza / Observação Técnica |
 | --- | ---: | --- | --- |
-| **1. Dimensionamento Solar SUS (`cnes_solar_sus`)** | 3959 | Potência: **1,216,243 kWp** · Geração: **1788204.5 MWh/ano** · Potencial bruto: **R$ 1,504,077,960/ano** | PR entre 75% e 82%; ano de 365 dias |
+| **1. Dimensionamento Solar SUS (`cnes_solar_sus`)** | 3961 | Potência: **1,216,815 kWp** · Geração: **1789089.6 MWh/ano** · Potencial bruto: **R$ 1,504,840,020/ano** | PR entre 75% e 82%; ano de 365 dias |
 | **2. Otimização Ponta A4 Hospitalar (`aneel_tarifa_hospital`)** | 4196 | Custo atual: **R$ 983,254,150/mês** -> Otimizado: **R$ 687,142,000/mês** (Média: **R$ 70,570/mês** por hospital) | Deslocamento de ponta via bateria LFP + retrofit HVAC |
-| **3. Viabilidade sob Incerteza Climática (`vpl_incerteza_saude`)** | 4152 | Saldo líquido médio acumulado: **P10 = R$ 614,492** · **P50 = R$ 747,642** · **P90 = R$ 880,791** | Variação interanual GHI NASA POWER (-10% / 0% / +10%) |
-| **4. Autonomia de Microgrids Críticos (`energia_solar`)** | 4057 | Importação residual total: **142,746 kWh** · Reserva final em bateria: **160,871 kWh** | Balanço causal horário sem exportação líquida |
+| **3. Viabilidade sob Incerteza Climática (`vpl_incerteza_saude`)** | 4154 | Saldo líquido médio acumulado: **P10 = R$ 614,293** · **P50 = R$ 747,443** · **P90 = R$ 880,594** | Variação interanual GHI NASA POWER (-10% / 0% / +10%) |
+| **4. Autonomia de Microgrids Críticos (`energia_solar`)** | 4058 | Importação residual total: **142,746 kWh** · Reserva final em bateria: **160,960 kWh** | Balanço causal horário sem exportação líquida |
 
 ## 3. Proveniência Auditada das Fontes Públicas (G1)
 
