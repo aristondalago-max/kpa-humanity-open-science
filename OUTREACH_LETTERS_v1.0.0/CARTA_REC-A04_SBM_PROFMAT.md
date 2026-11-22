@@ -2,5 +2,5 @@
 
 - **Destinatário:** SBM — Sociedade Brasileira de Matemática / Coordenação PROFMAT (`https://sbm.org.br/`)
 - **Pacote Submetido:** `PKG-A-CORPUS-PTBR-v1.0.0` (`11,092` problemas verificados em 10 famílias matemáticas e 5 níveis de dificuldade)
-- **Manifesto SHA-256:** `582c5450bde9c8dfc3fb570835881d3c1dc396bb79084fc23339bef241f229a6` · **Licença:** `CC-BY-4.0`
+- **Manifesto SHA-256:** `5f49b31a3cde7e8b3aa1addb8d555ed6f63cbeddae5f0bd3ff549c6da90c43ba` · **Licença:** `CC-BY-4.0`
 - **Finalidade:** Reuso livre em listas de exercícios, oficinas de resolução de problemas e avaliação aberta de modelos de raciocínio matemático em língua portuguesa.
