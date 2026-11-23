@@ -2,7 +2,7 @@
 
 - **Destinatário:** Grupo Fotovoltaica / UFSC — Laboratório de Energia Solar da Universidade Federal de Santa Catarina (`https://fotovoltaica.ufsc.br/`)
 - **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`16,381` cenários sintéticos únicos auditados nas 27 UFs)
-- **Manifesto SHA-256:** `09649612d62971a8e6088d722eac25280e6506093cc51831e7fe005092a1179f` · **Licença:** `CC-BY-4.0`
+- **Manifesto SHA-256:** `23be50f0c247d69f1ac85878fa8e76b3373920faca8997cd287fbccf556d473a` · **Licença:** `CC-BY-4.0`
 
 ## 1. Objeto da Submissão Científica Aberta
 
