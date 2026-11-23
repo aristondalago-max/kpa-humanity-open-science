@@ -2,11 +2,11 @@
 
 - **Repositório Alvo:** `https://github.com/aristondalago-max/kpa-humanity-open-science`
 - **Tags:** `v1.0.0-preview` · `v1.0.0`
-- **Data de Geração:** `2026-11-23T02:00:03-03:00`
+- **Data de Geração:** `2026-11-23T02:15:04-03:00`
 - **Status de Governança (`L4`):** `PUBLICAÇÃO E ENCAMINHAMENTO INSTITUCIONAL AUTORIZADOS PELO OPERADOR (19/11/2026 07:15:27 BRT)`
 
 ## Resumo dos Artefatos Incluídos
 
-1. **`PKG-A-CORPUS-PTBR-v1.0.0`:** `11,092` questões matemáticas e combinatórias únicas verificadas em nível `L2/L4` (de `11,189` acertos `L1` e `13,421` execuções `L0`), acompanhadas de gabarito comentado em português, CSV, JSONL e manifesto SHA-256 (`d844567932f0a1edd0d45e91498b0c1ff602960c98d82afa4f87a84f8aa55a9a`).
-2. **`PKG-B-ENERGIA-SAUDE-v1.0.0`:** `16,381` estudos energéticos sintéticos únicos verificados em nível `L2/L4` (de `20,510` acertos `L1` e `21,010` execuções `L0` — cobrindo `27/27 UFs`), acompanhados de relatório científico demonstrativo com aviso explícito de cenários sintéticos, CSV, JSONL e manifesto SHA-256 (`18f5809feafb41be795caa8eef5c8abad4c251b942d414c4a92c4b8fa21d5ed4`).
+1. **`PKG-A-CORPUS-PTBR-v1.0.0`:** `11,092` questões matemáticas e combinatórias únicas verificadas em nível `L2/L4` (de `11,189` acertos `L1` e `13,421` execuções `L0`), acompanhadas de gabarito comentado em português, CSV, JSONL e manifesto SHA-256 (`4435753cf7e11b3641d8ee9856cc4ecaba6989533f74a2ac82ddc5e6010e83ca`).
+2. **`PKG-B-ENERGIA-SAUDE-v1.0.0`:** `16,381` estudos energéticos sintéticos únicos verificados em nível `L2/L4` (de `20,510` acertos `L1` e `21,010` execuções `L0` — cobrindo `27/27 UFs`), acompanhados de relatório científico demonstrativo com aviso explícito de cenários sintéticos, CSV, JSONL e manifesto SHA-256 (`327b45adeba41019356aa63207873821f04cc4c9b2ff0024105503f8d23b5720`).
 3. **`OUTREACH_LETTERS_v1.0.0/`:** Cartas técnicas oficiais de encaminhamento institucional e convite à revisão metodológica (`L2 -> L3`) para **Grupo Fotovoltaica / UFSC (`REC-B06`)**, **ABDEH (`REC-B05`)**, **CONASS (`REC-B01`)**, **CONASEMS (`REC-B02`)**, **IMPA / OBMEP (`REC-A03`)** e **SBM / PROFMAT (`REC-A04`)**.
