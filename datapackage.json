@@ -1,0 +1,57 @@
+{
+  "profile": "tabular-data-package",
+  "name": "kpa-humanity-open-science",
+  "title": "KPA Humanity Open Science — Corpus Aberto PT-BR & Energia para a Saude (SUS)",
+  "version": "v1.0.0",
+  "created": "2026-11-24T02:54:12-03:00",
+  "homepage": "https://github.com/aristondalago-max/kpa-humanity-open-science",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "keywords": [
+    "energia-solar",
+    "sus",
+    "cnes",
+    "aneel",
+    "nasa-power",
+    "matematica",
+    "obmep",
+    "pt-br",
+    "cenarios-sinteticos"
+  ],
+  "description": "Bases abertas verificadas por duplo oraculo deterministico: (A) Corpus Aberto PT-BR de Matematica e Combinatoria; (B) Cenarios sinteticos parametrizados por tipologia de unidades publicas de saude (CNES/NASA POWER/ANEEL) nas 27 UFs.",
+  "resources": [
+    {
+      "name": "corpus-aberto-ptbr-csv",
+      "path": "PKG-A-CORPUS-PTBR-v1.0.0/dataset_corpus_ptbr_l2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "records_l2_dedup": 11934
+    },
+    {
+      "name": "corpus-aberto-ptbr-jsonl",
+      "path": "PKG-A-CORPUS-PTBR-v1.0.0/dataset_corpus_ptbr_l2.jsonl",
+      "format": "jsonl",
+      "mediatype": "application/jsonl",
+      "records_l2_dedup": 11934
+    },
+    {
+      "name": "energia-saude-sus-csv",
+      "path": "PKG-B-ENERGIA-SAUDE-v1.0.0/dataset_energia_saude_l2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "records_l2_dedup": 17657
+    },
+    {
+      "name": "energia-saude-sus-jsonl",
+      "path": "PKG-B-ENERGIA-SAUDE-v1.0.0/dataset_energia_saude_l2.jsonl",
+      "format": "jsonl",
+      "mediatype": "application/jsonl",
+      "records_l2_dedup": 17657
+    }
+  ]
+}
