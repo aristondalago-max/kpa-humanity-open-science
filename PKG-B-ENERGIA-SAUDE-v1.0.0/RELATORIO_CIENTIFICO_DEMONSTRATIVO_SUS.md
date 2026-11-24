@@ -1,9 +1,9 @@
 # Relatório Científico Demonstrativo — KPA Humanity: Energia para a Saúde (PKG-B-ENERGIA-SAUDE-v1.0.0)
 
 - **Missão:** Missão B — KPA Humanity: Energia para a Saúde (`MISSION_B_ENERGIA_SAUDE`)
-- **Versão:** `v1.0.0` · **Gerado em:** `2026-11-24T15:45:03-03:00`
+- **Versão:** `v1.0.0` · **Gerado em:** `2026-11-24T16:00:03-03:00`
 - **Nível de Validação Científica:** **`L2`** (Cálculos verificados por duplo oráculo determinístico `solve_a == solve_b`, cenários únicos deduplicados por `family:level:seed` e proveniência explícita das fontes públicas)
-- **Cenários Únicos Auditados (L2):** `20362` (de `25483` acertos L1 e `26119` execuções L0 — **`27 / 27 UFs`** cobertas)
+- **Cenários Únicos Auditados (L2):** `20424` (de `25559` acertos L1 e `26199` execuções L0 — **`27 / 27 UFs`** cobertas)
 - **Licença:** `CC-BY-4.0`
 
 ## 1. Aviso Metodológico Obrigatório (Distinção entre Tipologia Parametrizada e Unidade Individual)
@@ -17,10 +17,10 @@
 
 | Eixo de Modelagem | Cenários Únicos (L2) | Indicador Principal Simulado (Tipologias) | Incerteza / Observação Técnica |
 | --- | ---: | --- | --- |
-| **1. Dimensionamento Solar SUS (`cnes_solar_sus`)** | 4915 | Potência: **1,510,675 kWp** · Geração: **2220303.5 MWh/ano** · Potencial bruto: **R$ 1,867,664,019/ano** | PR entre 75% e 82%; ano de 365 dias |
-| **2. Otimização Ponta A4 Hospitalar (`aneel_tarifa_hospital`)** | 5218 | Custo atual: **R$ 1,223,684,350/mês** -> Otimizado: **R$ 854,634,770/mês** (Média: **R$ 70,726/mês** por hospital) | Deslocamento de ponta via bateria LFP + retrofit HVAC |
-| **3. Viabilidade sob Incerteza Climática (`vpl_incerteza_saude`)** | 5180 | Saldo líquido médio acumulado: **P10 = R$ 613,853** · **P50 = R$ 746,938** · **P90 = R$ 880,022** | Variação interanual GHI NASA POWER (-10% / 0% / +10%) |
-| **4. Autonomia de Microgrids Críticos (`energia_solar`)** | 5049 | Importação residual total: **177,531 kWh** · Reserva final em bateria: **200,089 kWh** | Balanço causal horário sem exportação líquida |
+| **1. Dimensionamento Solar SUS (`cnes_solar_sus`)** | 4929 | Potência: **1,516,164 kWp** · Geração: **2228333.0 MWh/ano** · Potencial bruto: **R$ 1,874,597,111/ano** | PR entre 75% e 82%; ano de 365 dias |
+| **2. Otimização Ponta A4 Hospitalar (`aneel_tarifa_hospital`)** | 5235 | Custo atual: **R$ 1,228,182,530/mês** -> Otimizado: **R$ 857,679,190/mês** (Média: **R$ 70,774/mês** por hospital) | Deslocamento de ponta via bateria LFP + retrofit HVAC |
+| **3. Viabilidade sob Incerteza Climática (`vpl_incerteza_saude`)** | 5196 | Saldo líquido médio acumulado: **P10 = R$ 614,158** · **P50 = R$ 747,316** · **P90 = R$ 880,473** | Variação interanual GHI NASA POWER (-10% / 0% / +10%) |
+| **4. Autonomia de Microgrids Críticos (`energia_solar`)** | 5064 | Importação residual total: **178,084 kWh** · Reserva final em bateria: **200,752 kWh** | Balanço causal horário sem exportação líquida |
 
 ## 3. Proveniência Auditada das Fontes Públicas (G1)
 
