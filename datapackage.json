@@ -3,7 +3,7 @@
   "name": "kpa-humanity-open-science",
   "title": "KPA Humanity Open Science — Corpus Aberto PT-BR & Energia para a Saude (SUS)",
   "version": "v1.0.0",
-  "created": "2026-11-24T10:30:02-03:00",
+  "created": "2026-11-24T10:45:03-03:00",
   "homepage": "https://github.com/aristondalago-max/kpa-humanity-open-science",
   "licenses": [
     {
@@ -30,28 +30,28 @@
       "path": "PKG-A-CORPUS-PTBR-v1.0.0/dataset_corpus_ptbr_l2.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "records_l2_dedup": 14183
+      "records_l2_dedup": 14229
     },
     {
       "name": "corpus-aberto-ptbr-jsonl",
       "path": "PKG-A-CORPUS-PTBR-v1.0.0/dataset_corpus_ptbr_l2.jsonl",
       "format": "jsonl",
       "mediatype": "application/jsonl",
-      "records_l2_dedup": 14183
+      "records_l2_dedup": 14229
     },
     {
       "name": "energia-saude-sus-csv",
       "path": "PKG-B-ENERGIA-SAUDE-v1.0.0/dataset_energia_saude_l2.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "records_l2_dedup": 18911
+      "records_l2_dedup": 18988
     },
     {
       "name": "energia-saude-sus-jsonl",
       "path": "PKG-B-ENERGIA-SAUDE-v1.0.0/dataset_energia_saude_l2.jsonl",
       "format": "jsonl",
       "mediatype": "application/jsonl",
-      "records_l2_dedup": 18911
+      "records_l2_dedup": 18988
     }
   ]
 }
