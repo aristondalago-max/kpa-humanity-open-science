@@ -1,6 +1,6 @@
 # Encaminhamento de Base Aberta Verificada para Reuso Docente no PROFMAT (`REC-A04`)
 
 - **Destinatário:** SBM — Sociedade Brasileira de Matemática / Coordenação PROFMAT (`https://sbm.org.br/`)
-- **Pacote Submetido:** `PKG-A-CORPUS-PTBR-v1.0.0` (`20,604` problemas verificados em 10 famílias matemáticas e 5 níveis de dificuldade)
-- **Manifesto SHA-256:** `48c271bb511ddfda4b75443ff21c0e167093d14e015eac839c5a4906148fabec` · **Licença:** `CC-BY-4.0`
+- **Pacote Submetido:** `PKG-A-CORPUS-PTBR-v1.0.0` (`20,650` problemas verificados em 10 famílias matemáticas e 5 níveis de dificuldade)
+- **Manifesto SHA-256:** `eac35ac3703bb8fa0362f220cd5bfa5e47f445222f8d3bcca291c4bf73605991` · **Licença:** `CC-BY-4.0`
 - **Finalidade:** Reuso livre em listas de exercícios, oficinas de resolução de problemas e avaliação aberta de modelos de raciocínio matemático em língua portuguesa.
