@@ -1,25 +1,25 @@
 # Caderno Didático Aberto de Matemática e Combinatória Aplicada — PKG-A-CORPUS-PTBR-v1.0.0
 
 - **Missão:** Missão A — Corpus Aberto PT-BR (`MISSION_A_CORPUS_PTBR`)
-- **Versão:** `v1.0.0` · **Gerado em:** `2026-11-25T23:45:03-03:00`
+- **Versão:** `v1.0.0` · **Gerado em:** `2026-11-26T00:00:04-03:00`
 - **Nível de Validação Científica:** **`L2`** (Verificação matemática por duplo oráculo determinístico independente `solve_a == solve_b` + deduplicação de cenários + sanitização de conteúdo)
-- **Total de Questões Únicas Verificadas (L2):** `20843` (de `20940` acertos L1 e `25081` respostas L0)
+- **Total de Questões Únicas Verificadas (L2):** `20888` (de `20985` acertos L1 e `25140` respostas L0)
 - **Licença:** `CC-BY-4.0` (Creative Commons Atribuição 4.0 Internacional)
 
 ## 1. Resumo por Família Matemática
 
 | Família | Questões Únicas Verificadas (L2) | Níveis Cobertos | Aplicação Didática |
 | --- | ---: | --- | --- |
-| `aritmetica` | 2274 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `codigos_erro` | 2330 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `combinatoria` | 2363 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `contagem` | 2392 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `logistica_humanitaria` | 2310 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `mdc_mmc` | 1876 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `modular` | 1596 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `primos` | 1191 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `recorrencia` | 2003 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
-| `sistema_linear` | 2508 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `aritmetica` | 2277 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `codigos_erro` | 2336 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `combinatoria` | 2368 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `contagem` | 2397 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `logistica_humanitaria` | 2316 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `mdc_mmc` | 1881 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `modular` | 1599 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `primos` | 1193 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `recorrencia` | 2007 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
+| `sistema_linear` | 2514 | S1, S2, S3, S4, S5 | Ensino Médio, Olímpico e Superior (STEM) |
 
 ## 2. Exemplos Didáticos Reproduzíveis com Gabarito Comentado (Amostra por Família)
 
