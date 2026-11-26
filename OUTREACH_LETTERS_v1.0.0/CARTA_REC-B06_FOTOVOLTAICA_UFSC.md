@@ -1,12 +1,12 @@
 # Carta Técnica de Encaminhamento e Convite à Revisão Metodológica (`L2 -> L3`)
 
 - **Destinatário:** Grupo Fotovoltaica / UFSC — Laboratório de Energia Solar da Universidade Federal de Santa Catarina (`https://fotovoltaica.ufsc.br/`)
-- **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`29,383` cenários sintéticos únicos auditados nas 27 UFs)
-- **Manifesto SHA-256:** `2eb321c6fa822515ffc388d857bde947fde9ddf961ee1bc9a481041f81cfe33c` · **Licença:** `CC-BY-4.0`
+- **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`29,445` cenários sintéticos únicos auditados nas 27 UFs)
+- **Manifesto SHA-256:** `123024aeb56f03a09e290eb629023f8f3c943d49b1f9c134cac1d6b53acc6d78` · **Licença:** `CC-BY-4.0`
 
 ## 1. Objeto da Submissão Científica Aberta
 
-Encaminhamos ao **Grupo Fotovoltaica / UFSC** a base aberta `PKG-B-ENERGIA-SAUDE-v1.0.0`, contendo **`29,383` cenários sintéticos parametrizados** de dimensionamento solar fotovoltaico (`PR 0,75–0,82`), viabilidade sob incerteza interanual (`P10/P50/P90` de GHI **NASA POWER**), otimização horo-sazonal `A4 Verde` (**ANEEL**) e balanço horário de microgrids críticos para tipologias de unidades públicas de saúde (**CNES/DATASUS**: `UBS Porte I/II`, `UPA 24h`, `Hospital Geral SUS`) nas **27 Unidades da Federação**.
+Encaminhamos ao **Grupo Fotovoltaica / UFSC** a base aberta `PKG-B-ENERGIA-SAUDE-v1.0.0`, contendo **`29,445` cenários sintéticos parametrizados** de dimensionamento solar fotovoltaico (`PR 0,75–0,82`), viabilidade sob incerteza interanual (`P10/P50/P90` de GHI **NASA POWER**), otimização horo-sazonal `A4 Verde` (**ANEEL**) e balanço horário de microgrids críticos para tipologias de unidades públicas de saúde (**CNES/DATASUS**: `UBS Porte I/II`, `UPA 24h`, `Hospital Geral SUS`) nas **27 Unidades da Federação**.
 
 ## 2. Declaração Metodológica de Cenários Sintéticos
 
