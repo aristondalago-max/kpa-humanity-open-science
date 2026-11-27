@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Se voce utilizar estes datasets ou modelos matematicos, cite como abaixo."
 title: "KPA Humanity Open Science — Corpus Aberto PT-BR e Modelagem Energetica para Unidades Publicas de Saude (SUS)"
 version: "v1.0.0"
-date-released: "2026-11-26"
+date-released: "2026-11-27"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/aristondalago-max/kpa-humanity-open-science"
 url: "https://github.com/aristondalago-max/kpa-humanity-open-science"
