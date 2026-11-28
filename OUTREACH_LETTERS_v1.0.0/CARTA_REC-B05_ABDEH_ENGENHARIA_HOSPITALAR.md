@@ -2,7 +2,7 @@
 
 - **Destinatário:** ABDEH — Associação Brasileira para o Desenvolvimento do Edifício Hospitalar (`https://abdeh.org.br/`)
 - **Pacote Submetido:** `PKG-B-ENERGIA-SAUDE-v1.0.0` (`8015` cenários hospitalares A4 Verde + `7806` cenários de microgrids críticos)
-- **Manifesto SHA-256:** `f173b53be72d25720db9cd88f4a5d21dad4e1dc8c56be7e3c8cd7760788a0edd` · **Licença:** `CC-BY-4.0`
+- **Manifesto SHA-256:** `1cf382166eb5a02f2c9701540987b9c5ad023fb80612123f92b433823ec7a5fd` · **Licença:** `CC-BY-4.0`
 
 ## 1. Síntese para Engenharia Hospitalar
 
